@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bikash
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning NodeJS,Javascript
+- 💞️ I’m looking to collaborate on Javascript Projects
+- 📫 How to reach me bikash.phukan@ext.vts.com
